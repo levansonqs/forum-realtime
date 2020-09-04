@@ -9,7 +9,7 @@
     "@svgr/webpack": "^4.3.1",
     "clsx": "latest",
     "firebase": "^6.2.4",
-    "markdown-to-jsx": "^6.10.2",
+    "markdown-to-jsx": "^6.11.4",
     "next": "latest",
     "prop-types": "latest",
     "react": "latest",
